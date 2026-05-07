@@ -1,0 +1,10 @@
+deepseek:
+  url: "https://chat.deepseek.com"
+  expert_mode: true
+  deep_think: true
+  web_search: true
+  timeout: 120
+
+output:
+  directory: "./output"
+  format: "zip"
